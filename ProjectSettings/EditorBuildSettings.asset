@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/A\xE7\u0131l\u0131\u015F sahnesi.unity"
+    guid: 95608cb88f7963a4287f759b7d182fd5
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 804d745bd2f39394c85902777bad776d
+  - enabled: 1
+    path: Assets/Scenes/kazanma sahnesi.unity
+    guid: 89180902d2aded74db47bbd9ecdcbef3
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: ffcc3ced2aec2a54d86827095c44a916
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 20a3f067cc400564cb56c645c15748af
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 9cf7a6530479e0547b04abba9209f31c
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: f16c35dd7695be649aaf890934722ef9
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 4342c51c2190f31449a359f6ec66743b
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 1c40c5fdab5586a45b21950cad69262e
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 44e43838c07455c408e666ba1d949b8e
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: da45bd0db4a870e47a46d709e95894b1
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 964defc988bdfc243bccb8335b0f8e1c
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFC.unity"
+    guid: 725c45d198166c5408dafde0897ee726
+  - enabled: 1
+    path: Assets/Scenes/sahne2kaybetme.unity
+    guid: 2de3406469c2e7e4387d396c65547955
+  - enabled: 1
+    path: Assets/Scenes/sahne2kazanma.unity
+    guid: 48b1c1014f518164bb68e012bf58c404
+  - enabled: 1
+    path: Assets/Scenes/sahne3kaybetme.unity
+    guid: 12ccd79d18070f54a9faab1614759ba7
+  - enabled: 1
+    path: Assets/Scenes/sahne3kazanma.unity
+    guid: 202bc1316db7de84cb708a03e120c3e1
+  - enabled: 1
+    path: Assets/Scenes/sahne4kaybetme.unity
+    guid: 678e3d818d65df54da965c2a410658c2
+  - enabled: 1
+    path: Assets/Scenes/sahne4kazanma.unity
+    guid: 4b660e7a7186d9643aefbfcf2752eaa6
+  - enabled: 1
+    path: Assets/Scenes/sahne5kazanma.unity
+    guid: 59cf6b13da645fa49b7ba6c5bdd1fcfd
+  - enabled: 1
+    path: Assets/Scenes/sahne5kaybetme.unity
+    guid: af027afe509207e4bb6b9a406ed25d12
+  - enabled: 1
+    path: Assets/Scenes/sahne6kaybetme.unity
+    guid: e81ab9ac0471d3241a52723c6c78f993
+  - enabled: 1
+    path: Assets/Scenes/sahne6kazanma.unity
+    guid: 24d3765f1974e2e429fa28e4e5f2e984
+  - enabled: 1
+    path: Assets/Scenes/sahne7kaybetme.unity
+    guid: 812f62b56703ab946b02d929c46bfa73
+  - enabled: 1
+    path: Assets/Scenes/sahne7kazanma.unity
+    guid: 95e165374ec053f40af5d7f6d6201160
+  - enabled: 1
+    path: Assets/Scenes/sahne8kaybetme.unity
+    guid: 72816288f86f7de49893ead7a2f049b9
+  - enabled: 1
+    path: Assets/Scenes/sahne8kazanma.unity
+    guid: 710e04cbc16d3d6459151eba6e96c54e
+  - enabled: 1
+    path: Assets/Scenes/sahne9kaybetme.unity
+    guid: 8df2fc8868efc8543b2792638ca40fbd
+  - enabled: 1
+    path: Assets/Scenes/sahne9kazanma.unity
+    guid: 0bc7cb14ec7562e4799f581293b73628
+  - enabled: 1
+    path: Assets/Scenes/sahne10kazanma.unity
+    guid: 544b4c21bf39db24690830dff9987b67
+  - enabled: 1
+    path: Assets/Scenes/sahne10kaybetme.unity
+    guid: 5e5c1395f8146d94494a3d9dd9ee9e2e
+  - enabled: 1
+    path: Assets/Scenes/Kontroller.unity
+    guid: 3a63798812f314a4ba6abeeb7c8c8f20
+  - enabled: 1
+    path: Assets/Scenes/Ayarlar.unity
+    guid: f83158e755c2f1f48ba10ede4567b0b1
+  m_configObjects: {}
